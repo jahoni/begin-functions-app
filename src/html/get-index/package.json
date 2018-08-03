@@ -1,0 +1,7 @@
+{
+  "name": "fear-r4y-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
